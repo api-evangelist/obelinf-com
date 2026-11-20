@@ -64,18 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Obelinf provides a comprehensive network and infrastructure source of truth platform, offering solutions for data center management, multi‑site networks, IP address management (IPAM), network audit, infrastructure migration, and homelab environments. Their SaaS product helps teams track servers, racks, capacity, device inventories, cable connections, VLANs, wireless LANs, and provides AI‑driven documentation generation. The platform includes visual topology maps, capacity planning tools, and integrates with existing workflows to streamline network operations and documentation.
+Obelinf provides a comprehensive network and infrastructure management platform, offering solutions for data center management, multi-site network oversight, IP address management (IPAM), network audit, infrastructure migration, and homelab environments. Their AI-powered documentation tools help automate infrastructure documentation, while features include device inventory, rack management, cable tracking, VLAN/subnet management, and wireless LAN management. Obelinf serves enterprises seeking centralized control and visibility over their network assets and capacity planning.
 
-**Areas:** Network · Infrastructure · SaaS · IPAM · DataCenter
+**Areas:** Network · Infrastructure · Management · IPAM · DataCenter
 
 ## Obelinf on APIs.io
 
 Everything profiled for Obelinf is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/obelinf-com/](https://apis.io/providers/obelinf-com/)** — or go straight to one of the APIs or properties below.
-
-### APIs (2)
-
-- [Obelinf API](https://apis.io/apis/obelinf-com/obelinf-api/) — Network & Infrastructure Documentation API
-- [Obelinf API API](https://apis.io/apis/obelinf-com/obelinf-api-api/) — Network & Infrastructure Documentation API
 
 ### Published properties
 
@@ -105,6 +100,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://obelinf.com/)
 - [Documentation](https://obelinf.com/docs/api/)
+- [API reference](https://obelinf.com/docs/api/)
 - [Pricing](https://obelinf.com/pricing/)
 - [Support](https://obelinf.com/contact/sales/)
 - [Blog](https://obelinf.com/blog/)
@@ -114,22 +110,22 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 38.1** — thin · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 31.2** — thin · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 24.0 |
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
 | Contract governance | 79.1 |
-| Operational transparency | 19.0 |
-| Developer ergonomics | 16.7 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 30.2 |
 | Access clarity | 48.5 |
 
-**Agent readiness 35.5** — agent-ready
+**Agent readiness 25.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | yes |
+| Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
@@ -139,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
